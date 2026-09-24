@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-09-24 · 8 briefs · Anticipo de Halloween (mansión embrujada, dark fantasy village) + redstone/mazmorra con trampas; probamos formato listicle ("3 razones...") y misdirection-reveal; sin audio de tendencia confirmado para el nicho -> VO + SFX nativo de Minecraft en todos los briefs.
