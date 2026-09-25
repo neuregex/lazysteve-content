@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-09-25 · 7 briefs · Primer digest del thread (posted.md/performance.md vacíos, sin datos que priorizar todavía): mezcla base ES/EN de builds "reto de IA" con hooks outcome-first + numéricos, formato antes/después para 2 briefs (alinea con audio "Originalton" y "Freak" trending esta semana), resto en SFX nativo de Minecraft por falta de audio trending verificado y estable para nicho gaming/IA.
