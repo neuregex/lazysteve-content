@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-09-26 · 7 briefs · Angle: "le pedí a la IA" ya es tendencia nativa (validación fuerte); apalancamos spooky-season temprano + builds funcionales (redstone/raid-proof) para diferenciarnos del slop; posted.md/performance.md aún vacíos, cold start sin datos históricos.
