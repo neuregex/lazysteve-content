@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-09-26 · 8 briefs · Ángulo del día: anti-"AI slop" (60% de TikTok es slop y el 50% de Gen Z desfollowea por eso) — reforzar builds JUGABLES/funcionales (redstone, WorldEdit real) sobre renders bonitos; posted.md/performance.md aún vacíos, sin historial que priorizar todavía.
