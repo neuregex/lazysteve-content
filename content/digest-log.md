@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-09-28 · 7 briefs · reveal-on-beat + outcome-first hooks (tendencia format-first del mes); anti-slop real .schem/plugin como diferenciador ante fatiga de "AI slop"; audios trending no verificables en vivo -> se recomendó SFX nativo de Minecraft + VO en su lugar; 1 brief de loop comunitario (petición de comentarios) para retención de serie.
