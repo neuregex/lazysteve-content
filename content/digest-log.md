@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-09-29 · 7 briefs · newsjack Minecraft Dungeons II / "The Sift" launch day + anti-slop "real playable build" proof angle + cottagecore/city-scale builds for EN channel launch
