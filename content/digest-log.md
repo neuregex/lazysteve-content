@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-10-02 · 8 briefs · ángulo ASMR/satisfying-build (boom de "AI ASMR" en corto) + Halloween de octubre + anti-slop (.schem real) + arranque de serie de 15 días
