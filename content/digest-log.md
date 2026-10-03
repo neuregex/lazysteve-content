@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-10-03 · 8 briefs · primera corrida (histórico vacío); ángulo spooky season (Halloween) + hype Mundial 2026 MX + formato ASMR build satisfactorio
