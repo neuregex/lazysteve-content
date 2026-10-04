@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-10-04 · 8 briefs · spooky season kickoff (Oct 1) + World Cup 2026 (MX co-host) + AI-ASMR satisfying-build wave; posted.md/performance.md still empty, research-only run
