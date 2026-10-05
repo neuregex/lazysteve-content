@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-10-05 · 8 briefs · Halloween/spooky season angle + anti-slop "real .schem vs render" differentiator + identity-call hooks for builders/server owners; posted.md and performance.md still empty, no prior-performance data to build on.
