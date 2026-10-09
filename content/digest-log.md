@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-10-09 · 8 briefs · Sin audio trending confirmado para el nicho hoy (default: audio nativo de Minecraft + VO); ángulo del día: spooky-season/Halloween, satisfying block-SFX builds, "subtle foreshadowing" en el storyboard, y comparativo noob-vs-AI. posted.md y performance.md siguen vacíos (sin datos aún que priorizar).
