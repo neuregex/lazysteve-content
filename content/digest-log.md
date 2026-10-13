@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-10-13 · 8 briefs · #minecraft/#gaming/#chatgpt subiendo fuerte en hashtags; sin audio trending verificado con confianza → base de VO + SFX nativo de Minecraft; ángulo anti-slop (build real jugable, no automatización fría) para contrarrestar el rechazo comunitario a OSU.ai
