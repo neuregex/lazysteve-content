@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-10-14 · 8 briefs · ángulo Halloween/reveal-cut + unpopular-opinion + serie numerada "Día X"; posted.md y performance.md aún vacíos (sin historial que priorizar todavía)
