@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-10-15 · 8 briefs · ángulo anti-slop (build real/jugable vs. render IA) + ASMR satisfying sound + twist de foreshadowing + glow-up antes/después. posted.md y performance.md aún vacíos (sin historial que priorizar todavía).
