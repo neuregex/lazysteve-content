@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-10-16 · 8 briefs · anti-AI-slop (build real jugable) + estacional Halloween (reveal dramático) + personalización ("construye algo sobre mí") + sin audio trending confirmado para el nicho → SFX nativo de Minecraft + VO
