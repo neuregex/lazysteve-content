@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-10-17 · 7 briefs · primer digest completo (posted.md/performance.md vacíos, sin historial que dedupear todavía); sin audio trending confirmado hoy -> VO + SFX nativo de Minecraft en todos; ángulo de temporada Halloween (mansión embrujada / calabozo), formato "giro inesperado" (base secreta bajo casa normal), ángulo ASMR/satisfying (cúpula de cristal, ensamblaje por bloques).
