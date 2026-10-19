@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-10-19 · 8 briefs · Octubre/Halloween (serie "Día X/31", reveal estilo disfraz), anti-slop vs. backlash de OSU.ai (IA automatiza builds), ángulo server/plugin para dueños de servidor, engagement bait "comenta qué construir". posted.md y performance.md aún vacíos — sin datos históricos que priorizar todavía.
