@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-10-21 · 8 briefs · spooky-season + anti-AI-slop (real build, no render) + ASMR satisfying assembly + foreshadowing twist; posted.md/performance.md still empty, no history to build on yet
