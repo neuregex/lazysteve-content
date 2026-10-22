@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-10-22 · 8 briefs · Halloween countdown (Ramalama/Bang Bang reveal audio, valid thru Oct 31) + anti-"AI replaces creativity" framing (real/playable builds vs TSM OSU.ai backlash) + cozy-autumn evergreen builds
