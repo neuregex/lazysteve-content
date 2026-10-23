@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-10-23 · 8 briefs · sin historial previo (posted.md/performance.md vacíos, arranque desde cero); ángulo de lanzamiento: Halloween/spooky (8 días para el 31-oct), trend "subtle foreshadowing" (reveal con giro), trend "suspect" adaptado a la IA, e ilusión óptica de forced-perspective; ningún audio trending verificado hoy -> SFX nativo de Minecraft + VO en todos los clips.
