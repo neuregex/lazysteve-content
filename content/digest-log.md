@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-10-25 · 8 briefs · cuenta regresiva a Halloween/Día de Muertos (temas embrujado + altar de muertos), formato comparación corto-vs-detallado, reposicionar "IA construye" como co-piloto jugable (no automatización fría) tras el backlash a OSU.ai
