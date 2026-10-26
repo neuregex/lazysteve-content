@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-10-26 · 8 briefs · reveals con mecanismo oculto + gradient-builds satisfying; sin audio trending verificable hoy (se usa VO+SFX nativo); mensaje anti-"la IA juega por ti" tras backlash de osu.ai
