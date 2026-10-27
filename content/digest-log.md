@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-10-27 · 8 briefs · Halloween countdown (prompt-reveal + hidden-door "before/after" reveals); posted.md/performance.md still empty so no history to dedupe/optimize against; no verified niche-specific trending audio today → native Minecraft SFX+VO only on all 8
