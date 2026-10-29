@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-10-29 · 8 briefs · Halloween push (4 briefs: casa embrujada, calabaza gigante, castillo gótico, pueblo fantasma) + 4 evergreen (bunker, treehouse, mansión flotante, castillo medieval); posted.md y performance.md aún vacíos, sin datos de rendimiento para priorizar
