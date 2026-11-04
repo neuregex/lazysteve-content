@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-11-04 · 8 briefs · primer digest (posted.md/performance.md aún vacíos); hype crossover GTA VI (lanza 19-nov) + audio "Suzuki" verificado #2 en México; formato "vibe coding reveal" (prompt→build) en auge; hook outcome-first <1.5s.
