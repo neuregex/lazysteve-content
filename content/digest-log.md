@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-11-09 · 7 briefs · evergreen satisfying-speedbuild + "giro final" reveal formula; anti-slop/proof-of-real-build angle (2 briefs) to counter AI-skepticism; 1 early-winter seasonal brief; posted.md/performance.md still empty (no prior videos logged)
