@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-11-12 · 8 briefs · primer digest del canal; posted.md y performance.md aún vacíos (sin historial que priorizar); angle: arranque temprano de temporada navideña/Guadalupe-Reyes + evergreens satisfying-build (castillo, estadio, base submarina, pirámide con redstone, montaña rusa funcional, mansión embrujada, isla flotante)
