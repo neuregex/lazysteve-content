@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-11-13 · 8 briefs · sin historial local aún (posted/performance vacíos); ángulo del día: novedad "IA construye en Minecraft" (CraftGPT/Claude-mansion en prensa tech) + reveal rústico (granero/cabaña trending en nicho MC) + sin audio trending verificado hoy, fallback a SFX nativo de Minecraft.
