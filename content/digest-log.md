@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-11-14 · 8 briefs · ángulo: transición Halloween→Navidad (mid-Nov), replay-bait (mecanismos ocultos), audio #1 global confirmado (Paper Moon Static) como underlay opcional; posted.md/performance.md aún vacíos, sin datos de rendimiento que priorizar todavía.
