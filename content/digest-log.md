@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-11-14 · 8 briefs · sin historial local aún (posted/performance vacíos); apuesta por hook outcome-first + audio nativo Minecraft ante señales de audios trending contradictorias esta semana; mezcla ES (5) / EN (3), diferenciador "build real jugable" vs. demos de apps de IA (OSU.ai) y vs. slop genérico de IA.
