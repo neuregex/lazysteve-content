@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-11-15 · 8 briefs · primera corrida (posted.md/performance.md aún vacíos, sin historial que priorizar); mezcla fantasía/redstone-mecanismo/acuático/vikingo/boss-statue/treehouse/cyberpunk/medieval-mecanismo; sin audio trending confirmado para nicho Minecraft → VO + SFX nativo como base en todos los briefs.
