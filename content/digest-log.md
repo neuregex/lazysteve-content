@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-11-18 · 8 briefs · estacional (Buen Fin MX + Thanksgiving USA + cuenta regresiva a diciembre) + reveal ASMR bloque-a-bloque + speedbuild time-lapse + anti-slop "no es un render" + build por comentarios (UGC loop). Sin audio trending verificado hoy → VO + SFX nativo de Minecraft en los 8.
