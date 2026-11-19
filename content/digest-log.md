@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-11-19 · 7 briefs · ángulo "reveal/misterio" (trampilla→base secreta) por el peso de los replays en el algoritmo 2026 + builds dinámicos (montaña rusa de redstone, isla flotante, cúpula bajo el agua) para el canal ES, más 2 briefs EN (bunker secreto y estatua pixel-art de dragón) para variar el canal USA; sin audio trending verificado hoy → VO + SFX nativo de Minecraft en los 7.
