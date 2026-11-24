@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-11-24 · 8 briefs · MODO COMPLETO (posted.md/performance.md aún vacíos, sin histórico que priorizar). Angle del día: anti-slop (build REAL jugable) + rewatch-bait (puerta oculta, loop en minecart) + redstone/TNT chain reactions; sin audio trending verificado hoy -> VO + SFX nativo de Minecraft en todos los briefs.
