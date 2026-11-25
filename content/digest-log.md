@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-11-25 · 8 briefs · reveal/open-loop builds (bunker oculto, GTA VI city, isla subacuática) + anti-slop angle; sin audio trending verificado hoy, VO nativo
