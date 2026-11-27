@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-11-27 · 8 briefs · baseline/variedad (sin posted.md/performance.md previos) — foco anti-slop "build real jugable", hook <1.5s, 6 ES / 2 EN
