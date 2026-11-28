@@ -8,3 +8,4 @@ Format:
 `- YYYY-MM-DD · <n> briefs · <short note on the day's angle>`
 
 <!-- newest at the bottom; the agent appends below this line -->
+- 2026-11-28 · 8 briefs · ángulo "outcome-first hook + anti-slop in-game real" sobre biomas variados (castillo gótico, base submarina, redstone farm, cyberpunk, templo maya, palacio de hielo EN, templo celeste EN, guarida de dragón EN); posted.md y performance.md vacíos (sin historial aún); sin audio trend verificado y aplicable al nicho Minecraft/IA hoy → se usa VO + SFX nativo de Minecraft en todos los briefs, con una prueba de "doble hook" y una de estructura serie.
